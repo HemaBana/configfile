@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Configuration sourceCodeOnly="true" staticAnalysisOnly="true">
 <Targets>
-<Target path="C:\Users\hema.a\OneDrive - HCL Technologies Ltd\Desktop\DotNetfiles"/>
+<Target path="C:\DotNetfiles"/>
 </Targets>
 </Configuration>
